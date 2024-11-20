@@ -21,3 +21,4 @@ test-log
 
 # Ignore some subdirs in demo dir
 demo/output
+demo/videos
